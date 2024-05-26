@@ -5,4 +5,4 @@
 
 ## Descripción del Proyecto
 
-Esta aplicacion consistia en realizar un CRUD de tareas usando SQLite y .Net Maui.
+Esta aplicación consistía en realizar un CRUD de tareas usando SQLite y .Net Maui.
